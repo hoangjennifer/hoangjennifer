@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jennifer Hoang</h1>
-<h3 align="center">I code and design beautiful things. I love what I do. I’m an aspiring software development engineer, currently a senior in school, creating meaningful online experiences for people.</h3>
+<h3 align="center">I code and design beautiful things. I love what I do. I’m an aspiring software development engineer, currently a senior in college, creating meaningful online experiences for people.</h3>
 
 - 🔭 I’m currently working on a **task organizer.**
 
